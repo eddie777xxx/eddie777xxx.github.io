@@ -83,9 +83,9 @@ paginate_path:         /blog/:num/
 
 # Theme
 # ---------------------------------------------------------------------------------------
-
+# https://daniel.arneam.com/blog/misc/2020-10-01-Solve-error-when-executing-Jekyll-using-GithubPages-Version/
 # theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9
+# remote_theme: hydecorp/hydejack@v9
 
 
 # Customizaton
