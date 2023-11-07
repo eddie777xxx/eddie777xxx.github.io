@@ -6,9 +6,6 @@ description: >
   How people are using Hydejack in the real world. 
   This page is built using the `projects` layout* that is included in the PRO version.
 no_groups: true
-redirect_from:
-  - /projects/
-  - /example/
 ---
 
 <!-- If you'd like to have your blog or project featured here, please contact me at [mail@hydejack.com](mailto:mail@hydejack.com).  
