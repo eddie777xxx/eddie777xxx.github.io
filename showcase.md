@@ -8,7 +8,7 @@ description: >
 no_groups: true
 redirect_from:
   - /projects/
-  - /examples/
+  - /example/
 ---
 
 <!-- If you'd like to have your blog or project featured here, please contact me at [mail@hydejack.com](mailto:mail@hydejack.com).  
