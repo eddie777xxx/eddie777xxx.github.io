@@ -59,6 +59,8 @@ menu:
     url:               /docs/
   - title:             Showcase
     url:               /showcase/
+  - title:             Example
+    url:               /example/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -85,7 +87,7 @@ paginate_path:         /blog/:num/
 # ---------------------------------------------------------------------------------------
 # https://daniel.arneam.com/blog/misc/2020-10-01-Solve-error-when-executing-Jekyll-using-GithubPages-Version/
 # theme: jekyll-theme-hydejack
-# remote_theme: hydecorp/hydejack@v9
+remote_theme: hydecorp/hydejack@v9
 
 
 # Customizaton
