@@ -45,9 +45,19 @@ work:
     startDate: "2019-3-01"
     endDate: "2022-2-01"
     summary: >
-      Results Advertising is a full-service marketing agency specializing in multicultural communications. Established in 2009,
+      Results Advertising is a full-service marketing agency specializing in multicultural communications. Established in 2009.
     highlights:
       - "Collaborated with clients (real estate developer, education, retail, automobile, etc.) to understand business objectives, define data requirements, and transfer non-technical concepts into analytical specifications."
+      - "Conduct customer segmentation, pre-campaign forecasting, and post-campaign analysis for campaigns in digital channels.."
+ - company: "China Resources (Holdings) Co"
+    position: "Data Analyst"
+    website: "www.crc.com.hk"
+    startDate: "2015-6-01"
+    endDate: "2018-12-01"
+    summary: >
+      China Resources (Holdings) Co., Ltd. (“CR” or “China Resources Group”) is a diversified holding company registered in Hong Kong. CR was first established as “Liow & Co.
+    highlights:
+      - "Provided data-driven recommendations to UnionPay on credit & prepaid card portfolios by evaluating consumer behavior, optimizing campaign performance."
       - "Conduct customer segmentation, pre-campaign forecasting, and post-campaign analysis for campaigns in digital channels.."
    
 volunteer:
