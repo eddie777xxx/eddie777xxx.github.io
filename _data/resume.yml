@@ -14,8 +14,10 @@ basics:
     reporting, campaign forecasting, business intelligence and dashboards, and customer analysis.
   Open `_data/resume.yml` to edit this text.
   location:
+    address: ""
+    postalCode: ""
     city: "Toronto"
-    countryCode: "Ca"
+    countryCode: "CA"
     region: "Ontario"
   profiles:
     - network: "Twitter"
