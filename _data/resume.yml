@@ -2,21 +2,16 @@
 # If you don't have a JSON Resume you can just edit this YAML file instead.
 # See also: <https://jsonresume.org/>.
 basics:
-  name: "Richard Hendricks"
-  label: "Programmer"
+  name: "Eddie Xue"
+  label: "Marketing Analyst"
   picture: "https://via.placeholder.com/240x240"
-  email: ""
-  phone: "(912) 555-4321"
+  email: "eddieontheway@gmail.com"
+  phone: "(437) 553-8909"
   website: "https://piedpiper.com"
   summary: >
-    Richard hails from Tulsa.
-    He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!)
-    Before starting Pied Piper, he worked for Hooli as a part time software developer.
-    While his work focuses on applied information theory,
-    mostly optimizing lossless compression schema of both the length-limited and adaptive variants,
-    his non-work interests range widely,
-    everything from quantum computing to chaos theory.
-    He could tell you about it, but THAT would NOT be a “length-limited” conversation!
+    Queens University Master of Management Analytics graduate. 7+ years of professional experience in retail, banking, and agency
+    domains with strong analytical and quantitative skills. Specialize in data management and analysis, campaign performance
+    reporting, campaign forecasting, business intelligence and dashboards, and customer analysis.
     Open `_data/resume.yml` to edit this text.
   location:
     address: "2712 Broadway St"
