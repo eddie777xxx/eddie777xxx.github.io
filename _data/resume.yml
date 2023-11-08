@@ -12,7 +12,7 @@ basics:
     Queens University Master of Management Analytics graduate. 7+ years of professional experience in retail, banking, and agency
     domains with strong analytical and quantitative skills. Specialize in data management and analysis, campaign performance
     reporting, campaign forecasting, business intelligence and dashboards, and customer analysis.
-Open `_data/resume.yml` to edit this text.
+# Open `_data/resume.yml` to edit this text.
   location:
     address: ""
     postalCode: ""
