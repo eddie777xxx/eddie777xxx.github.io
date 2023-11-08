@@ -30,8 +30,8 @@ work:
   - company: "Acuityads"
     position: "Reporting Analyst"
     website: "https://illumin.com/"
-    startDate: "2022-2"
-    endDate: "2023-11"
+    startDate: "2022-2-01"
+    endDate: "2023-11-01"
     summary: >
       AcuityAds, Inc. owns and operates an online real-time bidding platform for online display and video advertising needs. 
     highlights:
