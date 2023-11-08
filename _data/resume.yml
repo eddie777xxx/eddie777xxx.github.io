@@ -70,12 +70,13 @@ publications:
     website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
     summary: "Innovative middle-out compression algorithm that changes the way we store data."
 skills:
-  - name: "Web Development"
+  - name: "Data Analytics"
     level: "Master"
     keywords:
-      - "HTML"
-      - "CSS"
-      - "Javascript"
+      - "SQL"
+      - "Excel"
+      - "Python"
+      - "Tableau"
   - name: "Compression"
     level: "Master"
     keywords:
@@ -84,6 +85,10 @@ skills:
       - "GIF"
 languages:
   - language: "English"
+    fluency: "Native speaker"
+  - language: "Mandarin"
+    fluency: "Native speaker"
+  - language: "Cantonese"
     fluency: "Native speaker"
 interests:
   - name: "Wildlife"
