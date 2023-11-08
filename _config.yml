@@ -50,14 +50,12 @@ author:
 menu:
   - title:             Résumé*
     url:               /resume/
-  - title:             Blog
-    url:               /blog/
   - title:             Projects
     url:               /projects/
   - title:             Documentation
     url:               /docs/
-  - title:             Showcase
-    url:               /showcase/
+  - title:             Blog
+    url:               /blog/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
