@@ -25,19 +25,18 @@ basics:
       username: "Richard Hendricks"
       url: ""
 work:
-  - company: "Pied Piper"
-    position: "CEO/President"
-    website: "https://piedpiper.com"
-    startDate: "2013-12-01"
-    endDate: ""
+  - company: "Acuityads"
+    position: "Reporting Analyst"
+    website: "https://illumin.com/"
+    startDate: "2022-2"
+    endDate: "2023-11"
     summary: >
-      Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has
-      consistently fielded high Weisman Scores™ that are not merely competitive,
-      but approach the theoretical limit of lossless compression.
+      AcuityAds, Inc. owns and operates an online real-time bidding platform for online display and video advertising needs. 
     highlights:
-      - "Built an algorithm for artist to detect if their music was violating copy right infringement laws"
-      - "Successfully won Techcrunch Disrupt"
-      - "Optimized an algorithm that holds the current world record for Weisman Scores"
+      - "Delivered bi-weekly, weekly, monthly reports to the management team by transforming complex data into intuitive and actionable insights using Tableau, Excel, and PowerPoint, and bridged gaps between technical and non-technical professionals"
+      - "Took initiative to promote Business Intelligence transformation within the team by converting Excel reports into highly interactive dashboards in Tableau, which was proven to improve reporting efficiency by 70%"
+      - "Conduct customer segmentation, customer profiling analysis, target customer list pulls, and post-campaign analysis for campaigns in digital channels using excel and SQL"
+      - "Collaborate with different stakeholders (marketing, merchandising, IT, and external partners) to understand business objectives, define data requirements, and transfer non-technical concepts"
 volunteer:
   - organization: "CoderDojo"
     position: "Teacher"
